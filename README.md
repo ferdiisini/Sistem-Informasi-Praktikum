@@ -12,7 +12,7 @@ Deskripsi Proyek:<br />
 Untuk mendukung SDG 4, serta mendukung kegiatan belajar mengajar, kami mengembangkan program yang dapat digunakan oleh asisten laboratorium untuk mengelola kegiatan praktikum. 
 <br /><br />
 Fitur Program:<br />
-- _Welcome screen _untuk pengguna<br />
+- _Welcome screen_ untuk pengguna<br />
 - Database praktikan (jadwal praktikan, absensi praktikan, nilai praktikan) dalam _linked list_ dan _binary tree_<br />
 - Pengisian absensi praktikan<br />
 - Pengisian nilai praktikan<br />
