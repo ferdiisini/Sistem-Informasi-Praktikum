@@ -3,9 +3,9 @@ Practicum Information System <br />
 UAS<br />
 Algoritma dan Pemrograman 03 (Kamis)<br />
 ENEE604023<br /> 
-Muhammad Gillfran Samual	2006574351<br />
-Verel Sormin 			1906379333<br />
-Ferdi Irmansyah Sini 		1906379560
+- Muhammad Gillfran Samual	2006574351<br />
+- Verel Sormin 			1906379333<br />
+- Ferdi Irmansyah Sini 		1906379560
 <br /><br />
 Ide Proyek: Program Manajemen Praktikum<br />
 Deskripsi Proyek:<br />
