@@ -13,8 +13,7 @@ Untuk mendukung SDG 4, serta mendukung kegiatan belajar mengajar, kami mengemban
 <br /><br />
 Fitur Program:<br />
 - _Welcome screen_ untuk pengguna<br />
-- Database praktikan (jadwal praktikan, absensi praktikan, nilai praktikan) dalam _linked list_ dan _binary tree_<br />
-- Pengisian absensi praktikan<br />
-- Pengisian nilai praktikan<br />
+- _Database_ praktikan (jadwal praktikan, absensi praktikan, nilai praktikan) dalam _linked list_ dan _binary tree_ <br />
+- Perubahan isi _database_, _filehandling_
 - Laporan akhir nilai praktikan (nilai akhir, lulus/tidak)<br />
 - Setiap praktikan mengikuti 3 modul praktikum, sehingga memiliki 3 komponen nilai<br />
